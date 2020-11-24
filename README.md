@@ -9,7 +9,7 @@ Data Science Portfolio
 
 # [Project 2 : Car Price Estimator : Project Overview](https://github.com/avneet222/Car-Price)
 • Created a tool that estimates car price to help dealers and customers to get best deals.
-• Optimized Linear, Decision tree and Random Forest Regressors using GridSearchCV to reach the best model.
+• Optimized Linear, Decision tree and Random Forest Regression using GridSearchCV to reach the best model.
 • Build a client facing API using Flask.
 
 
@@ -22,7 +22,7 @@ Data Science Portfolio
 
 # [Project 4 : Flight Price Prediction : Project Overview](https://github.com/avneet222/Flight-Price)
 • Created a tool that estimates flight price to help customers get best deals.
-• Optimized SVM,Linear,Ridge & Lasso and Random Forest Regressors to reach the best model.
+• Optimized SVM,Linear,Ridge & Lasso and Random Forest Regression to reach the best model.
 • Build a client facing API using Flask.
 
 
